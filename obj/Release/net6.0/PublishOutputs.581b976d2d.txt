@@ -1,0 +1,14 @@
+C:\temp\dotnet\leetcode\GrpcGreeter\GrpcGreeter\obj\Release\net6.0\PubTmp\Out\GrpcGreeter.exe
+C:\temp\dotnet\leetcode\GrpcGreeter\GrpcGreeter\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\temp\dotnet\leetcode\GrpcGreeter\GrpcGreeter\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\temp\dotnet\leetcode\GrpcGreeter\GrpcGreeter\obj\Release\net6.0\PubTmp\Out\GrpcGreeter.dll
+C:\temp\dotnet\leetcode\GrpcGreeter\GrpcGreeter\obj\Release\net6.0\PubTmp\Out\GrpcGreeter.deps.json
+C:\temp\dotnet\leetcode\GrpcGreeter\GrpcGreeter\obj\Release\net6.0\PubTmp\Out\GrpcGreeter.runtimeconfig.json
+C:\temp\dotnet\leetcode\GrpcGreeter\GrpcGreeter\obj\Release\net6.0\PubTmp\Out\GrpcGreeter.pdb
+C:\temp\dotnet\leetcode\GrpcGreeter\GrpcGreeter\obj\Release\net6.0\PubTmp\Out\Google.Protobuf.dll
+C:\temp\dotnet\leetcode\GrpcGreeter\GrpcGreeter\obj\Release\net6.0\PubTmp\Out\Grpc.AspNetCore.Server.dll
+C:\temp\dotnet\leetcode\GrpcGreeter\GrpcGreeter\obj\Release\net6.0\PubTmp\Out\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\temp\dotnet\leetcode\GrpcGreeter\GrpcGreeter\obj\Release\net6.0\PubTmp\Out\Grpc.Core.Api.dll
+C:\temp\dotnet\leetcode\GrpcGreeter\GrpcGreeter\obj\Release\net6.0\PubTmp\Out\Grpc.Net.Client.dll
+C:\temp\dotnet\leetcode\GrpcGreeter\GrpcGreeter\obj\Release\net6.0\PubTmp\Out\Grpc.Net.ClientFactory.dll
+C:\temp\dotnet\leetcode\GrpcGreeter\GrpcGreeter\obj\Release\net6.0\PubTmp\Out\Grpc.Net.Common.dll

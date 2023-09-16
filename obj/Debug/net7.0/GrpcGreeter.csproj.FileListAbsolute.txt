@@ -32,3 +32,4 @@ C:\temp\dotnet\leetcode\GrpcGreeter\GrpcGreeter\obj\Debug\net7.0\refint\GrpcGree
 C:\temp\dotnet\leetcode\GrpcGreeter\GrpcGreeter\obj\Debug\net7.0\GrpcGreeter.pdb
 C:\temp\dotnet\leetcode\GrpcGreeter\GrpcGreeter\obj\Debug\net7.0\GrpcGreeter.genruntimeconfig.cache
 C:\temp\dotnet\leetcode\GrpcGreeter\GrpcGreeter\obj\Debug\net7.0\ref\GrpcGreeter.dll
+C:\temp\dotnet\leetcode\GrpcGreeter\GrpcGreeter\bin\Debug\net7.0\Grpc.AspNetCore.Web.dll

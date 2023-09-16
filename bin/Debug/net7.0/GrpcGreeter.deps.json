@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v7.0": {
       "GrpcGreeter/1.0.0": {
         "dependencies": {
-          "Grpc.AspNetCore": "2.40.0"
+          "Grpc.AspNetCore": "2.40.0",
+          "Grpc.AspNetCore.Web": "2.57.0"
         },
         "runtime": {
           "GrpcGreeter.dll": {}
@@ -49,6 +50,14 @@
           "lib/net6.0/Grpc.AspNetCore.Server.ClientFactory.dll": {
             "assemblyVersion": "2.0.0.0",
             "fileVersion": "2.40.0.0"
+          }
+        }
+      },
+      "Grpc.AspNetCore.Web/2.57.0": {
+        "runtime": {
+          "lib/net7.0/Grpc.AspNetCore.Web.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.57.0.0"
           }
         }
       },
@@ -179,6 +188,13 @@
       "sha512": "sha512-U+Cp5Mt7/xjFRIJhChjLXn0oUDisaBg3XzFkAUZE32dAa/dQN2gs9Qd9Gl51deStbci3J+W7CcfHgZ0y2Fwblw==",
       "path": "grpc.aspnetcore.server.clientfactory/2.40.0",
       "hashPath": "grpc.aspnetcore.server.clientfactory.2.40.0.nupkg.sha512"
+    },
+    "Grpc.AspNetCore.Web/2.57.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iL4kasEmEEmdi3UkHaTgFdr8M583N8FPeW4g54Zc2avkFYmyUkWKepqL+1CO1yjJG0PD3NfXwBXpSxjcyzAiTw==",
+      "path": "grpc.aspnetcore.web/2.57.0",
+      "hashPath": "grpc.aspnetcore.web.2.57.0.nupkg.sha512"
     },
     "Grpc.Core.Api/2.40.0": {
       "type": "package",

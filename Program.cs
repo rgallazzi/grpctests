@@ -1,4 +1,5 @@
 using GrpcGreeter.Services;
+using Grpc.AspNetCore.Web;
 
 namespace GrpcGreeter
 {
@@ -18,7 +19,13 @@ namespace GrpcGreeter
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
-            app.MapGrpcService<GreeterService>();
+            app.UseRouting();
+            app.UseGrpcWeb(new GrpcWebOptions { DefaultEnabled = true });
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapGrpcService<GreeterService>();
+            });
+            
             app.MapGet("/", () => "Communication with gRPC endpoints must be made through a gRPC client. To learn how to create a client, visit: https://go.microsoft.com/fwlink/?linkid=2086909");
 
             app.Run();

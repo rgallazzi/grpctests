@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8mVLjhyoFIWAu7yUmh9J/EKnf4hpF3k4S1cJnbpbQBSm6UbIrlv4ghu+aTXLzLaMCTjbxZbduu2ya/K2w9mQSQ==",
+  "dgSpecHash": "9qdCQdpiqe8MRDhVUJ6tSbhIjB7fixquQ5xNji70GVCs6EG4DSO7yaSjII3sTgFPRzcjND8H+s9ayeI13e7OgQ==",
   "success": true,
   "projectFilePath": "C:\\temp\\dotnet\\leetcode\\GrpcGreeter\\GrpcGreeter\\GrpcGreeter.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\roleite\\.nuget\\packages\\grpc.aspnetcore\\2.40.0\\grpc.aspnetcore.2.40.0.nupkg.sha512",
     "C:\\Users\\roleite\\.nuget\\packages\\grpc.aspnetcore.server\\2.40.0\\grpc.aspnetcore.server.2.40.0.nupkg.sha512",
     "C:\\Users\\roleite\\.nuget\\packages\\grpc.aspnetcore.server.clientfactory\\2.40.0\\grpc.aspnetcore.server.clientfactory.2.40.0.nupkg.sha512",
+    "C:\\Users\\roleite\\.nuget\\packages\\grpc.aspnetcore.web\\2.57.0\\grpc.aspnetcore.web.2.57.0.nupkg.sha512",
     "C:\\Users\\roleite\\.nuget\\packages\\grpc.core.api\\2.40.0\\grpc.core.api.2.40.0.nupkg.sha512",
     "C:\\Users\\roleite\\.nuget\\packages\\grpc.net.client\\2.40.0\\grpc.net.client.2.40.0.nupkg.sha512",
     "C:\\Users\\roleite\\.nuget\\packages\\grpc.net.clientfactory\\2.40.0\\grpc.net.clientfactory.2.40.0.nupkg.sha512",
